@@ -1,7 +1,0 @@
-Metadata-Version: 2.4
-Name: anar-vault
-Version: 0.1.0
-Summary: Encrypted storage and secret-handling infrastructure for AnarchI.
-Requires-Python: >=3.12
-Provides-Extra: test
-Requires-Dist: pytest>=9.0; extra == "test"

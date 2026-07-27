@@ -1,8 +1,0 @@
-pyproject.toml
-src/anar_vault/__init__.py
-src/anar_vault/vault.py
-src/anar_vault.egg-info/PKG-INFO
-src/anar_vault.egg-info/SOURCES.txt
-src/anar_vault.egg-info/dependency_links.txt
-src/anar_vault.egg-info/requires.txt
-src/anar_vault.egg-info/top_level.txt
